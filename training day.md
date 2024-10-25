@@ -2,10 +2,15 @@
 
 > [!NOTE]
 Mendelow's Matrix
+
 As leaders we lead and impement change and want people to come with us on your journey.
+
 Low interest and low power --> monitor (keep them going)
+
 Low interest and high power --> keep satisfied and keep on track
+
 High interest but low power --> keep them informed and maximise their interest
+
 High interest and high power --> Key players and manage closely
 
 > [!NOTE]
