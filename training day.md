@@ -20,3 +20,12 @@ I+ U- I respect myself more than the person I am linemanaging
 </p>
 
 
+> <p>You will know the staff and nothing is every fixed.  Relationships can always improve.  Need to be aware of the dynamics. We can easily fall into I+U- </p>
+
+## Us as leaders
+
+Three important questions
+[ ] Who do we work for?
+[ ] Do you have 'skin in the game'
+[ ] Do you stay the course?
+
