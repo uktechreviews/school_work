@@ -32,4 +32,12 @@ Three important questions
 
 [ ] Do you stay the course?
 
+> [!IMPORTANT]
+Do you have the time and systems in place to implement change
+
+
+## Implementing change
+
+Whats the evidence, will it work for us here.
+What is the evidence about the implementation phase, what do we need to do locally to support that
 
