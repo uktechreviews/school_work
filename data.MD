@@ -1,6 +1,6 @@
 ## data and use of the data
 
-> [!IMPORTANT]
+> [!NOTE]
 
 1. Attendance up by 1%
 2. Housepoints up
