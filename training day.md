@@ -43,10 +43,10 @@ What is the evidence about the implementation phase, what do we need to do local
 
 Kubler-Ross change curve
 <ol>Denial
-Shock
-Frustration
-Depression
-Experiment
-Decision
-Integration
+  Shock
+  Frustration
+  Depression
+  Experiment
+  Decision
+  Integration
 </ol>
