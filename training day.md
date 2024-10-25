@@ -25,7 +25,11 @@ I+ U- I respect myself more than the person I am linemanaging
 ## Us as leaders
 
 Three important questions
+
 [ ] Who do we work for?
+
 [ ] Do you have 'skin in the game'
+
 [ ] Do you stay the course?
+
 
