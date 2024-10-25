@@ -14,11 +14,9 @@ High interest and high power --> Key players and manage closely
 I / U matrix
 
 How do we interact with our staff
-
-I+ U+ I respect myself and I respect you 
-
-I- U+ You doubt yoursel and resepect yourself less than the person you are linemanaging 
-
-I+ U- I respect myself more than the person I am linemanaging \n
+<p>I+ U+ I respect myself and I respect you <br>
+I- U+ You doubt yoursel and resepect yourself less than the person you are linemanaging <br>
+I+ U- I respect myself more than the person I am linemanaging 
+</p>
 
 
